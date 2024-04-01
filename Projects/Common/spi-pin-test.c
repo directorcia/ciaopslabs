@@ -1,3 +1,5 @@
+// Reference - https://randomnerdtutorials.com/esp32-spi-communication-arduino/
+
 #include <Arduino.h>
 
 void setup() {
